@@ -1,0 +1,1 @@
+added parent entity with some basic functionalities, will be expanded upon later.
